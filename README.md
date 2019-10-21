@@ -15,8 +15,15 @@ Welcome to **100 days of Python Coding**
     string.py [playing with string]
     variable.py [type and variable]
 
-# ![#f03c15](https://placehold.it/15/f03c15/00000?text=+) `Day-3`
+# ![#f0315](https://placehold.it/15/f03c15/00000?text=+) `Day-3`
 
     conversion.py [convert cm to inches or vice versa]
     grade.py [find cgpa/grade]
     
+    
+```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+```
