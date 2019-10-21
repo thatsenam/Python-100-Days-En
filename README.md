@@ -1,11 +1,12 @@
 Welcome to **100 days of Python Coding**
 
-Day-1
-    
+# ![#f03c15](https://placehold.it/15/f03c15/00000?text=+) `Day-1`
+
     hello.py [printing hello world]
     flag.py [drawing a country flag using turtle]
     
-Day-2
+# ![#f03c15](https://placehold.it/15/f03c15/00000?text=+) `Day-2`
+
 
     centrigrade.py [Fahrenheit to celsius]
     circle.py [find area and perimeter of circle]
@@ -14,7 +15,7 @@ Day-2
     string.py [playing with string]
     variable.py [type and variable]
 
-Day-3
+# ![#f03c15](https://placehold.it/15/f03c15/00000?text=+) `Day-3`
 
     conversion.py [convert cm to inches or vice versa]
     grade.py [find cgpa/grade]
