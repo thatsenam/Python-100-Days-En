@@ -20,8 +20,3 @@ Welcome to **100 days of Python Coding**
     conversion.py [convert cm to inches or vice versa]
     grade.py [find cgpa/grade]
     
-    
-```diff
-- text in red + text in green
-! text in orange # text in gray
-```
