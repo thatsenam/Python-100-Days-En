@@ -20,4 +20,8 @@ Welcome to **100 days of Python Coding**
     conversion.py [convert cm to inches or vice versa]
     grade.py [find cgpa/grade]
     piecewise.py [solving a piecewise function]
+    rolldice.py [roll a dice and made fun of that]
+    tax.py [calculate income tax of a person's salary(Country Bangladesh)]
+    triangle.py [Check if its a valid triangle or not if yes print the area]
+    
     
