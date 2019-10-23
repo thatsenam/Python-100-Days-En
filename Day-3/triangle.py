@@ -1,6 +1,6 @@
 """
  Check if its a valid triangle or not if yes print the area
- Area=hb/2
+ using Heron's formula
 
  Created by IntelliJ IDEA.
  User: Enam
