@@ -14,6 +14,7 @@ while num <= limit:
     sum += num
     num += 1
 print(f"Sum is : {sum}")
+
 sum = 0
 num = 0
 limit = 100
