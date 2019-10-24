@@ -35,8 +35,8 @@ for i in range(1, row):
         print(f" ", end="")
     print("*" * i)
 
-for i in range( row):
+for i in range(row):
     sibs = int(row - i)
-    print("^" * sibs, end="")
-    print(f"{i}" * (i * 2), end="")
-    print("^" * sibs, end="\n")
+    print(" " * sibs, end="")
+    print(f"*" * (i * 2), end="")
+    print(" " * sibs, end="\n")
