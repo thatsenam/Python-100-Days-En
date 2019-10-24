@@ -23,7 +23,7 @@ print(f"2 +to 101 with step 2 = {sum}")
 
 # ---- Enter a non-negative integer n to calculate n! ----
 
-n = int(input("Enter the value of n : "))
+n = 3  # int(input("Enter the value of n : "))
 result = 1
 
 for i in range(1, n + 1):
@@ -32,4 +32,10 @@ print(f"n! = {result}")
 
 # Enter two positive integers to calculate the greatest common divisor and the least common multiple
 
-
+a = 5
+b = 9
+for factor in range(a, 0, -1):
+    print("in loop : ", factor)
+    if a % factor and b % factor:
+        print(f"{a},{b} is divisible by {factor}")
+        print(f"The least common multiple {a},{b} is  {(a * b) // factor}")
